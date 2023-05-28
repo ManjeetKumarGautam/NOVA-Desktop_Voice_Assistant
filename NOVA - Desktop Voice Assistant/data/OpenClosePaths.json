@@ -1,0 +1,22 @@
+{
+    "open":{
+        "notepad":"C:\\Windows\\system32\\notepad.exe",
+        "calculator": "C:\\Windows\\System32\\calc.exe",
+        "excel":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Excel 2013.lnk",
+        "powerpoint":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\PowerPoint 2013.lnk",
+        "outlook":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Outlook 2013.lnk",
+        "word":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Word 2013.lnk"
+
+    },
+    "close":{
+        "notepad":"taskkill /im notepad.exe",
+        "calculator": "taskkill /im calculator.exe",
+        "excel":"taskkill /im EXCEL.exe",
+        "powerpoint":"taskkill /im POWERPNT.exe",
+        "outlook":"taskkill /im OUTLOOK.exe",
+        "word":"taskkill /im WINWORD.exe",
+        "command prompt":"taskkill /im cmd.exe",
+        "command":"taskkill /im cmd.exe"
+
+    }
+}

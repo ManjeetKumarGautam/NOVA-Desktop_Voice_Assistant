@@ -1,0 +1,11 @@
+Chat bot
+Read
+Write
+Send WhatsApp Message
+Play Music
+Send Email
+CPU performance
+Memory performance
+Click photo
+News
+Weather
